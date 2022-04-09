@@ -1,1 +1,1 @@
-# Neural-time-series-analysis-LFP
+# Python code examples for analyzing LFP data (from external sources)
